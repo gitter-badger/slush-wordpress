@@ -1,5 +1,7 @@
 # slush wordpress
 
+[![Join the chat at https://gitter.im/amitmtrn/slush-wordpress](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amitmtrn/slush-wordpress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version](https://img.shields.io/npm/v/slush-wordpress-theme.svg)](https://www.npmjs.com/package/slush-wordpress-theme)
 [![Download stats](https://img.shields.io/npm/dm/slush-wordpress-theme.svg)](https://www.npmjs.com/package/slush-wordpress-theme)
 
